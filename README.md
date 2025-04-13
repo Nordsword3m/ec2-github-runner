@@ -1,4 +1,6 @@
-# On-demand self-hosted AWS EC2 runner for GitHub Actions
+# On-demand self-hosted AWS EC2 runner for GitHub Actions with storage size
+
+THIS IS A FORKED ACTION
 
 ⚠️ If you like the project, please consider [supporting Ukraine](https://bit.ly/3KeY7dc) in a [war](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) against russian occupants. Any help would be much appreciated!
 
