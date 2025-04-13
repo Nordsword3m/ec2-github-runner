@@ -3,7 +3,7 @@ description: GitHub Action for automatic creation and registration AWS EC2 insta
 author: Volodymyr Machula
 branding:
   icon: 'box'
-  color: 'orange'
+  color: 'green'
 inputs:
   mode:
     description: >-
